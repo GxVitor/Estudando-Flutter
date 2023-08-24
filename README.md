@@ -62,7 +62,7 @@ o Flutter já fez com um ambiente de Teste
 - Web </br>
 Para rodar Aplicação Web
 
-- Macos </br>
+- Windows </br>
 que é pra executar as aplicações Window
 
 - .gitignore </br>
